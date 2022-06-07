@@ -1,24 +1,6 @@
 #ifndef _HEXDUMP
 #define _HEXDUMP
 
-
-/*Includes*/
-#ifndef _INC_STDIO
-#include <stdio.h>
-#endif
-
-#ifndef _INC_CTYPE
-#include <ctype.h>
-#endif
-
-#ifndef _INC_STDLIB
-#include <stdlib.h>
-#endif
-
-#ifndef _INC_STRING
-#include <string.h>
-#endif
-
 #define FILEPATH 1
 #define VALUES_INLINE 20
 #define PRINT_BUFFER_SIZE 10000
